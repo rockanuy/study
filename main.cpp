@@ -2,5 +2,6 @@
 
 int main()
 {
-    std::cout << "Test\n";
+    auto x = "Test3";
+    std::cout << x << "\n";
 }
